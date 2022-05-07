@@ -1,2 +1,2 @@
 # site-autodescritivo
-Um site que descreve a is mesmo
+Um site que descreve a si mesmo
